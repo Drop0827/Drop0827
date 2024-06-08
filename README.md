@@ -13,9 +13,14 @@
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--  GitHub 数据概览 -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Drop0827&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
+  <!-- 打字机
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Drop0827&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
  
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  
+  -->
+
 <!--连续贡献数据记录 -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Drop0827&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
